@@ -1,13 +1,18 @@
+# Photo_filter_carousel
 
-# 🎨 **Photo Filter Carousel** – Edit Foto dengan Sentuhan Gaya!  
+Hasil screenshot photo_filter_carousel
+![Screenshoot kamera_flutter] (images/01.png)
 
-Aplikasi Flutter sederhana yang memungkinkan kamu menerapkan **filter warna keren** pada foto melalui **carousel interaktif**. Pilih filter favoritmu hanya dengan **menggeser** atau **ketuk cepat**, dan lihat hasilnya langsung!  
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## ✨ **Fitur Utama**  
-✅ **Pratinjau Langsung Filter** – Lihat efek filter secara real-time sebelum kamu menerapkannya  
-✅ **Carousel Filter Interaktif** – Pilih filter dengan menggeser atau mengetuk warna yang tersedia  
-✅ **Animasi Halus** – Efek **zoom & transparansi** untuk pengalaman yang lebih estetis  
-✅ **Responsif & Fleksibel** – Berjalan mulus di **Android & Web**  
+A few resources to get you started if this is your first Flutter project:
 
-📸 **Coba sekarang dan ubah fotomu jadi lebih stylish dalam hitungan detik!** 🚀
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+//
